@@ -1,0 +1,4 @@
+ultrasonic.c:18:1:__io_putchar	16	static
+ultrasonic.c:33:6:delay	16	static
+ultrasonic.c:39:6:HAL_TIM_IC_CaptureCallback	16	static
+ultrasonic.c:76:6:HCSR04_Read	8	static
